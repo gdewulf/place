@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/gdewulf",
+  "templates": [
+    {
+      "name": "Chelsea",
+      "sources": [
+        "https://user-images.githubusercontent.com/140208703/255280151-815641ff-fe26-4ab4-bffb-ce85a59916c7.jpg"
+      ],
+      "x": 577,
+      "y": 588
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
